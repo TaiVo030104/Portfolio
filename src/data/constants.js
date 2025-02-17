@@ -10,7 +10,7 @@ export const Bio = {
       "I am currently a student at the Faculty of Information Technology, VNUHCM - University of Science (aka FIT@HCMUS). I have a passion for building large, well-balanced, reliable systems using modern technologies. Striving daily to become a Software Architect is my dream, and I am turning that dream into reality with an unwavering commitment to learning and keeping up with effective modern technology. I am an ambitious individual - I am greedy for knowledge, eager for work, and enthusiastic about programming because it is an integral part of who I am.",
     github: "https://github.com/TaiVo030104",
     resume:
-      "https://drive.google.com/file/d/104_7OTSJJ-NpiCQD9lxUXw-gGsferRaj/view?usp=sharing",
+      "https://drive.google.com/file/d/1PMd6a6dW-rmXOV277L_dfxxSyNKLG0Rm/view?usp=sharing",
     linkedin: "linkedin.com/in/taivtthcmus",
     email: "tuantai312004@gmail.com",
     facebook: "https://www.facebook.com/vtt030104",
