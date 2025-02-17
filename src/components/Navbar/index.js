@@ -1,4 +1,4 @@
-import React, { useState } from 'react';
+import React from 'react';
 import styled, { useTheme } from 'styled-components';
 import { Link as LinkR } from 'react-router-dom';
 import { FaBars } from 'react-icons/fa';
