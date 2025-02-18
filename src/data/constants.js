@@ -130,24 +130,6 @@ export const Bio = {
   
   
   export const projects = [
-
-<<<<<<< HEAD
-    },
-    {
-      id: 5,
-      title: "Shopee Clone",
-      date: "Dec 2021 - Apr 2022",
-      description:
-        "App Is Currently In Playstore 100+ Downloads. This Project proposes an “Expense Tracking App”. Keep track of your personal expenses and compare them to your monthly income with the budget planner. It has Google Drive Cloud API for Backup of User Room Database. Made with Kotlin in MVVM Architecture & Live Data.",
-      image:
-        "../../img/project/Shopee Clone.png",
-      tags: ["HTML", "CSS", "Github"],
-      category: "web app",
-      github: "https://github.com/TaiVo030104/Shopee_Clone.git",
-      webapp: "https://play.google.com/store/apps/details?id=com.rishav.buckoid",
-    },
-];
-=======
       {
         id: 0,
         title: "E-Learning Website",
@@ -326,8 +308,4 @@ export const Bio = {
         github: "https://github.com/TaiVo030104/ClientServerEmail-MMT.git",
         webapp: "",
       },
-    
-     
-      
 ];
->>>>>>> f5d04ef (Change data)
